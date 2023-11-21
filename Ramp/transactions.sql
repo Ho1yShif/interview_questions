@@ -161,4 +161,4 @@ rolling_avg AS (
 SELECT rolling_avg_3d
 FROM rolling_avg
 WHERE transaction_date = '2021-01-31';
---Answer: 682.1500000000009 = ~682.15
+--Answer: $682.1500000000009 = ~$682.15
